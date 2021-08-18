@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "pyro_attack_0001.png",
+	"frame": {"x":1,"y":40,"w":50,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":9,"w":50,"h":55},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_attack_0002.png",
+	"frame": {"x":52,"y":108,"w":48,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":9,"w":48,"h":55},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_guts_0001.png",
+	"frame": {"x":1,"y":217,"w":23,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":17,"w":23,"h":29},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_guts_0002.png",
+	"frame": {"x":26,"y":217,"w":15,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":14,"w":15,"h":27},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_guts_0003.png",
+	"frame": {"x":43,"y":217,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":18,"w":14,"h":22},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_move_0001.png",
+	"frame": {"x":1,"y":134,"w":48,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":10,"w":48,"h":42},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_move_0002.png",
+	"frame": {"x":65,"y":1,"w":45,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":10,"w":45,"h":30},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_move_0003.png",
+	"frame": {"x":53,"y":65,"w":49,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":9,"w":49,"h":41},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_move_0004.png",
+	"frame": {"x":65,"y":33,"w":44,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":11,"w":44,"h":30},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_pain_0001.png",
+	"frame": {"x":1,"y":97,"w":49,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":9,"w":49,"h":35},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_stand_0001.png",
+	"frame": {"x":51,"y":165,"w":47,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":11,"w":47,"h":37},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_stand_0002.png",
+	"frame": {"x":1,"y":178,"w":47,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":11,"w":47,"h":37},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_summon_0001.png",
+	"frame": {"x":59,"y":204,"w":46,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":13,"w":46,"h":34},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "pyro_summon_0002.png",
+	"frame": {"x":1,"y":1,"w":62,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":9,"w":62,"h":37},
+	"sourceSize": {"w":64,"h":64}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pyro.png",
+	"format": "RGBA8888",
+	"size": {"w":111,"h":247},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9a0061a94d1f237d74cc7ba0659ba453:1bfd2cf13588e9bdbe9319ee31e4a03f:5339325c120add102ec13a02aa86dc28$"
+}
+}

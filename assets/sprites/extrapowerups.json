@@ -1,0 +1,30 @@
+{"frames": [
+
+{
+	"filename": "helicopterammo.png",
+	"frame": {"x":1,"y":1,"w":289,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":223},
+	"sourceSize": {"w":289,"h":223},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tank2.png",
+	"frame": {"x":292,"y":1,"w":87,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":149},
+	"sourceSize": {"w":87,"h":149},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "extrapowerups.png",
+	"format": "RGBA8888",
+	"size": {"w":380,"h":225},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:72d1c9abdb36a20becd4009c5d4a7f09:91a30635c7a0d3fb6eaa683c9251f156:2bf3b82752304d39aaf7a9ac01a0523e$"
+}
+}

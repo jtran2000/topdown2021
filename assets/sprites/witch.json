@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "witch_fire_0001.png",
+	"frame": {"x":175,"y":1,"w":33,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":33,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "witch_fire_0002.png",
+	"frame": {"x":1,"y":1,"w":40,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":40,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "witch_guts_0001.png",
+	"frame": {"x":172,"y":59,"w":35,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":35,"h":38},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "witch_guts_0002.png",
+	"frame": {"x":134,"y":1,"w":39,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":12,"w":39,"h":40},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "witch_guts_0003.png",
+	"frame": {"x":139,"y":43,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":13,"w":31,"h":32},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "witch_lightning_0001.png",
+	"frame": {"x":101,"y":48,"w":36,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":2,"w":36,"h":54},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "witch_lightning_0002.png",
+	"frame": {"x":43,"y":1,"w":40,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":1,"w":40,"h":63},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "witch_pain_0001.png",
+	"frame": {"x":85,"y":1,"w":47,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":5,"w":47,"h":45},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "witch_stand_0001.png",
+	"frame": {"x":51,"y":66,"w":48,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":13,"w":48,"h":45},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "witch_stand_0002.png",
+	"frame": {"x":1,"y":67,"w":48,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":14,"w":48,"h":44},
+	"sourceSize": {"w":64,"h":64}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "witch.png",
+	"format": "RGBA8888",
+	"size": {"w":209,"h":112},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2bb6cf24f4b3c9c46efce36e723c5673:fe0bc3bdb6b125cc3553c6a52c312c23:d144f45eecf8181a27999d67b8e23957$"
+}
+}

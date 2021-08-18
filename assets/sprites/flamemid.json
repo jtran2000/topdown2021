@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "flamethrower_0008.png",
+	"frame": {"x":2,"y":386,"w":471,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":83,"w":471,"h":251},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "flamethrower_0009.png",
+	"frame": {"x":1399,"y":333,"w":478,"h":297},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":58,"w":478,"h":297},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "flamethrower_0010.png",
+	"frame": {"x":942,"y":2,"w":474,"h":329},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":43,"w":474,"h":329},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "flamethrower_0011.png",
+	"frame": {"x":471,"y":2,"w":469,"h":360},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":33,"w":469,"h":360},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "flamethrower_0012.png",
+	"frame": {"x":2,"y":2,"w":467,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":33,"w":467,"h":382},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "flamethrower_0013.png",
+	"frame": {"x":475,"y":364,"w":456,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":31,"w":456,"h":291},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "flamethrower_0014.png",
+	"frame": {"x":1418,"y":2,"w":458,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":30,"w":458,"h":303},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "flamethrower_0015.png",
+	"frame": {"x":942,"y":333,"w":455,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":26,"w":455,"h":319},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "flamemid.png",
+	"format": "RGBA8888",
+	"size": {"w":1879,"h":657},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6eac830441537c43a9c08460ec120097:fc2004ec0d58f2ded08688087cf62842:ec93c9eaccf5808e6c2c69aa9f4bb6dd$"
+}
+}

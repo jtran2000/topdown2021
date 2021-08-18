@@ -1,0 +1,252 @@
+{"frames": [
+
+{
+	"filename": "1.png",
+	"frame": {"x":287,"y":152,"w":23,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":99},
+	"sourceSize": {"w":25,"h":100}
+},
+{
+	"filename": "1h_pistol.png",
+	"frame": {"x":146,"y":235,"w":7,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":21,"w":7,"h":16},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "1h_smg.png",
+	"frame": {"x":55,"y":218,"w":9,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":15,"w":9,"h":25},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":337,"y":152,"w":23,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":91},
+	"sourceSize": {"w":25,"h":100}
+},
+{
+	"filename": "2h_boltgun.png",
+	"frame": {"x":214,"y":179,"w":16,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":3,"w":16,"h":48},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "2h_fireballgun.png",
+	"frame": {"x":442,"y":99,"w":13,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":12,"w":13,"h":44},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "2h_flamethrower.png",
+	"frame": {"x":442,"y":1,"w":14,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":4,"w":14,"h":48},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "2h_icegun.png",
+	"frame": {"x":442,"y":51,"w":13,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":12,"w":13,"h":46},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "2h_machinegun.png",
+	"frame": {"x":157,"y":179,"w":23,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":1,"w":23,"h":52},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "2h_minigun.png",
+	"frame": {"x":182,"y":179,"w":30,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":30,"h":50},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "2h_rocket.png",
+	"frame": {"x":123,"y":179,"w":21,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":21,"h":55},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "2h_shotgun.png",
+	"frame": {"x":442,"y":145,"w":12,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":10,"w":12,"h":39},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "2h_sniper.png",
+	"frame": {"x":103,"y":179,"w":18,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":18,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":312,"y":152,"w":23,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":95},
+	"sourceSize": {"w":25,"h":100}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":362,"y":152,"w":23,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":80},
+	"sourceSize": {"w":25,"h":100}
+},
+{
+	"filename": "bullet.png",
+	"frame": {"x":146,"y":179,"w":9,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":4,"w":9,"h":54},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "dw_pistol.png",
+	"frame": {"x":157,"y":233,"w":21,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":21,"w":21,"h":17},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "dw_smg.png",
+	"frame": {"x":29,"y":218,"w":24,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":15,"w":24,"h":26},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "helicoptor.png",
+	"frame": {"x":224,"y":1,"w":61,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":59,"w":61,"h":172},
+	"sourceSize": {"w":256,"h":256}
+},
+{
+	"filename": "helicoptor_rotor.png",
+	"frame": {"x":287,"y":1,"w":153,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":46,"w":153,"h":149},
+	"sourceSize": {"w":256,"h":256}
+},
+{
+	"filename": "soldier_legs_0001.png",
+	"frame": {"x":432,"y":194,"w":26,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":12,"w":26,"h":35},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "soldier_legs_0002.png",
+	"frame": {"x":1,"y":218,"w":26,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":18,"w":26,"h":26},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "soldier_legs_0003.png",
+	"frame": {"x":75,"y":179,"w":26,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":12,"w":26,"h":37},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "soldier_legs_0004.png",
+	"frame": {"x":66,"y":218,"w":27,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":18,"w":27,"h":24},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "soldier_torso_1h.png",
+	"frame": {"x":232,"y":175,"w":45,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":45,"h":45},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "soldier_torso_2h.png",
+	"frame": {"x":387,"y":152,"w":45,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":5,"w":45,"h":40},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "soldier_torso_DW.png",
+	"frame": {"x":387,"y":194,"w":43,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":1,"w":43,"h":43},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "tank2_base.png",
+	"frame": {"x":75,"y":1,"w":147,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":147,"h":176},
+	"sourceSize": {"w":150,"h":182}
+},
+{
+	"filename": "tank2_turret.png",
+	"frame": {"x":1,"y":1,"w":72,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":72,"h":215},
+	"sourceSize": {"w":72,"h":218}
+},
+{
+	"filename": "tracer.png",
+	"frame": {"x":95,"y":237,"w":4,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":9,"w":4,"h":14},
+	"sourceSize": {"w":32,"h":32}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "soldier.png",
+	"format": "RGBA8888",
+	"size": {"w":459,"h":252},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c579f537e83b98769b4c0c0676729717:e74e49b1f6173b862b62a7b658edefe8:1365469667d93bb6b74b9d28a96b6600$"
+}
+}
