@@ -55,23 +55,26 @@ var bootState = {
 		game.load.atlasJSONArray('extrapowerups','assets/sprites/extrapowerups.png','assets/sprites/extrapowerups.json');
 		game.load.atlasJSONArray('partners','assets/sprites/partners.png','assets/sprites/partners.json');
 
-		game.load.atlasJSONArray('zombie','assets/sprites/zombie.png','assets/sprites/zombie.json');
-		game.load.atlasJSONArray('dog','assets/sprites/dog.png','assets/sprites/dog.json');
-		game.load.atlasJSONArray('fatso','assets/sprites/fatso.png','assets/sprites/fatso.json');
-		game.load.atlasJSONArray('vomit','assets/sprites/vomit.png','assets/sprites/vomit.json');
-		game.load.atlasJSONArray('moose','assets/sprites/moose.png','assets/sprites/moose.json');
-		game.load.atlasJSONArray('crow','assets/sprites/crow.png','assets/sprites/crow.json');
-		game.load.atlasJSONArray('boss','assets/sprites/boss.png','assets/sprites/boss.json');
-		game.load.atlasJSONArray('kid','assets/sprites/kid.png','assets/sprites/kid.json');
-		game.load.atlasJSONArray('pyro','assets/sprites/pyro.png','assets/sprites/pyro.json');
-		game.load.atlasJSONArray('witch','assets/sprites/witch.png','assets/sprites/witch.json');
-		game.load.atlasJSONArray('smoke','assets/sprites/smoke.png','assets/sprites/smoke.json');
+		game.load.atlasJSONArray('zombie','assets/sprites/enemies/zombie.png','assets/sprites/enemies/zombie.json');
+		game.load.atlasJSONArray('dog','assets/sprites/enemies/dog.png','assets/sprites/enemies/dog.json');
+		game.load.atlasJSONArray('fatso','assets/sprites/enemies/fatso.png','assets/sprites/enemies/fatso.json');
+		game.load.atlasJSONArray('vomit','assets/sprites/enemies/vomit.png','assets/sprites/enemies/vomit.json');
+		game.load.atlasJSONArray('moose','assets/sprites/enemies/moose.png','assets/sprites/enemies/moose.json');
+		game.load.atlasJSONArray('crow','assets/sprites/enemies/crow.png','assets/sprites/enemies/crow.json');
+		game.load.atlasJSONArray('boss','assets/sprites/enemies/boss.png','assets/sprites/enemies/boss.json');
+		game.load.atlasJSONArray('kid','assets/sprites/enemies/kid.png','assets/sprites/enemies/kid.json');
+		game.load.atlasJSONArray('pyro','assets/sprites/enemies/pyro.png','assets/sprites/enemies/pyro.json');
+		game.load.atlasJSONArray('witch','assets/sprites/enemies/witch.png','assets/sprites/enemies/witch.json');
+		game.load.atlasJSONArray('splatter','assets/sprites/enemies/splatter.png','assets/sprites/enemies/splatter.json');
+		game.load.atlasJSONArray('smoke','assets/sprites/enemies/smoke.png','assets/sprites/enemies/smoke.json');
+		game.load.atlasJSONArray('frozen','assets/sprites/enemies/frozen.png','assets/sprites/enemies/frozen.json');
+		game.load.atlasJSONArray('fires','assets/sprites/enemies/fires.png','assets/sprites/enemies/fires.json');
 
 		game.load.atlasJSONArray('fireballs','assets/sprites/fireballs2.png','assets/sprites/fireballs2.json');
-		game.load.atlasJSONArray('fires','assets/sprites/fires.png','assets/sprites/fires.json');
+
 		game.load.atlasJSONArray('flameend','assets/sprites/flameend.png','assets/sprites/flameend.json');
 		game.load.atlasJSONArray('lavabubble','assets/sprites/lavabubble.png','assets/sprites/lavabubble.json');
-		game.load.atlasJSONArray('splatter','assets/sprites/splatter.png','assets/sprites/splatter.json');
+
 		game.load.atlasJSONArray('torch','assets/sprites/torch.png','assets/sprites/torch.json');
 		game.load.atlasJSONArray('torchflame','assets/sprites/torchflame.png','assets/sprites/torchflame.json');
 		game.load.atlasJSONArray('flame','assets/sprites/flame.png','assets/sprites/flame.json');
@@ -79,7 +82,7 @@ var bootState = {
 		game.load.atlasJSONArray('flamemid','assets/sprites/flamemid.png','assets/sprites/flamemid.json');
 		game.load.atlasJSONArray('flameend','assets/sprites/flameend.png','assets/sprites/flameend.json');
 		game.load.atlasJSONArray('explosion','assets/sprites/explosion.png','assets/sprites/explosion.json');
-		game.load.atlasJSONArray('frozen','assets/sprites/frozen.png','assets/sprites/frozen.json');
+
 		game.load.atlasJSONArray('lightning','assets/sprites/lightning.png','assets/sprites/lightning.json');
 		game.load.atlasJSONArray('lightning','assets/sprites/lightning.png','assets/sprites/lightning.json');
 		game.load.atlasJSONArray('muzzleflash','assets/sprites/muzzleflash.png','assets/sprites/muzzleflash.json');
