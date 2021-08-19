@@ -533,9 +533,9 @@ function createGUI () {
 	EZGUI.components.buyHealthButton.on('click',function (event) {
 		buyHealth();
 	});
-	EZGUI.components.buyPartnerButton.on('click',function (event) {
+/*	EZGUI.components.buyPartnerButton.on('click',function (event) {
 		buyPartner();
-	});
+	});*/
 	EZGUI.components.buyMGTurretButton.on('click',function (event) {
 		buyTurret(mgturret);
 	});
