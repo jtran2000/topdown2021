@@ -28,6 +28,8 @@ let debug = false;
 //var gamesplayed;
 //let statistics;
 
+//A comment
+
 let playerName;
 let round = {//20 totalPoints roundNumber 1
 	totalPoints: 20,
