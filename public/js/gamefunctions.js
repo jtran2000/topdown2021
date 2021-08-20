@@ -4382,7 +4382,7 @@ function enemyDeath (enemy) {
 	
 	enemies.forEachAlive(function (moose) {
 		if (moose.enemyType==='moose') {
-			if (game.physics.arcade.distanceBetween(enemy,moose)<300) moose.enraged = true;;
+			if (game.physics.arcade.distanceBetween(enemy,moose)<300) moose.enraged = true;
 		}
 	},this)
 }
